@@ -1,0 +1,48 @@
+---------------------------------------------
+WAGC points for James Nicolson               
+---------------------------------------------
+2014 opening balance:                    2728
+Annual depreciation:                     -546
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                   200
+Internet Championship points:               0
+Participation points:                     240
+---------------------------------------------
+2014 closing balance:                    2722
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140621    Marc Loon                          t    40    40    40
+20140621    Lloyd Rubidge                      t    40    40    80
+20140621    Paul Steyn                         t    40    40   120
+20140622    Andrew Davies                      t    40    40   160
+20140622    Lloyd Rubidge                      t    40    80   200
+20140622    Chris Welsh                        t    40    40   240
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

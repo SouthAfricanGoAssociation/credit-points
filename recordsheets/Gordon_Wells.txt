@@ -1,0 +1,58 @@
+---------------------------------------------
+WAGC points for Gordon Wells                 
+---------------------------------------------
+2014 opening balance:                    1768
+Annual depreciation:                     -354
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                     0
+Internet Championship points:             350
+Participation points:                     360
+---------------------------------------------
+2014 closing balance:                    2224
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                              350
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                    350
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140122    Peet Brits                         c    20    20    20
+20140401    Paul Steyn                         c    20    20    40
+20140415    Andrew Davies                      c    20    20    60
+20140506    Chris Welsh                        c    20    20    80
+20140520    Lloyd Rubidge                      c    20    20   100
+20140610    Rory Shea                          c    20    20   120
+20140617    Andrew Davies                      c    20    40   140
+20140902    Paul Steyn                         c    20    40   160
+20140903    Chris Welsh                        t    40    60   200
+20140903    Peet Brits                         t    40    60   240
+20140916    Rory Shea                          c    20    40   260
+20140916    Rory Shea                          c    20    60   280
+20141007    Chris Welsh                        c    20    80   300
+20141007    Trevor Hill                        c    20    20   320
+20141028    Lloyd Rubidge                      c    20    40   340
+20141125    Lloyd Rubidge                      c    20    60   360
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

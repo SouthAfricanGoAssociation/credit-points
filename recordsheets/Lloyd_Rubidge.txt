@@ -1,0 +1,70 @@
+---------------------------------------------
+WAGC points for Lloyd Rubidge                
+---------------------------------------------
+2014 opening balance:                    6835
+Annual depreciation:                    -1367
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                   300
+Internet Championship points:               0
+Participation points:                     740
+---------------------------------------------
+2014 closing balance:                    6608
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140114    Rory Shea                          c    20    20    20
+20140121    Marco Dellermann                   c    20    20    40
+20140218    Paul Steyn                         c    20    20    60
+20140304    Michael Yang                       c    20    20    80
+20140311    Chris Welsh                        c    20    20   100
+20140401    Samuel Scott                       c    20    20   120
+20140408    Rory Shea                          c    20    40   140
+20140422    Andrew Davies                      c    20    20   160
+20140510    Chris Welsh                        t    40    60   200
+20140510    Samuel Scott                       t    40    60   240
+20140510    Andrew Davies                      t    40    60   280
+20140520    Gordon Wells                       c    20    20   300
+20140610    Samuel Scott                       c    20    80   320
+20140621    Rory Shea                          t    40    80   360
+20140621    James Nicolson                     t    40    40   400
+20140621    Chris Welsh                        t    40   100   440
+20140622    Bob Gale                           t    40    40   480
+20140622    James Nicolson                     t    40    80   520
+20140622    Ben Bredenkamp                     t    40    40   560
+20140715    Paul Steyn                         c    20    40   580
+20140729    Samuel Scott                       c    20   100   600
+20140805    Chris Welsh                        c    20   120   620
+20140826    Andrew Davies                      c    20    80   640
+20140916    Paul Steyn                         c    20    60   660
+20140923    Andrew Davies                      c    20   100   680
+20141021    Paul Steyn                         c    20    80   700
+20141028    Gordon Wells                       c    20    40   720
+20141125    Gordon Wells                       c    20    60   740
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

@@ -1,0 +1,102 @@
+---------------------------------------------
+WAGC points for Elizabeth Meyer              
+---------------------------------------------
+2014 opening balance:                       0
+Annual depreciation:                        0
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                    50
+Internet Championship points:             366
+Participation points:                    1000
+---------------------------------------------
+2014 closing balance:                    1516
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                               55
+Tournament 2                              105
+Tournament 3                              193
+Tournament 4                              173
+---------------------------------------------
+Sum of 2 best results:                    366
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140126    Rory Shea                          t    40    40    40
+20140126    Peet Brits                         t    40    40    80
+20140126    Hendrik de Ridder                  t    40    40   120
+20140212    Antoine Dymond                     c    20    20   140
+20140319    Antoine Dymond                     c    20    40   160
+20140326    Peet Brits                         c    20    60   180
+20140413    Peet Brits                         c    20    80   200
+20140416    John Leuner                        c    20    20   220
+20140416    Antoine Dymond                     c    20    60   240
+20140418    Peet Brits                         c    20   100   260
+20140423    Antoine Dymond                     c    20    80   280
+20140427    Peet Brits                         c    20   120   300
+20140427    Peet Brits                         c    20   140   320
+20140507    Peet Brits                         c    20   160   340
+20140511    Phakamile Mkhwanazi                t    40    40   380
+20140511    Thami Mazibuko                     t    40    40   420
+20140511    Mondli Senna                       t    40    40   460
+20140514    Antoine Dymond                     c    20   100   480
+20140521    Antoine Dymond                     c    20   120   500
+20140524    Peet Brits                         t    40   200   540
+20140524    Christiaan Maasdorp                t    40    40   580
+20140528    John Leuner                        c    20    40   600
+20140611    Brett Wilson                       c    20    20   620
+20140716    Antoine Dymond                     c    20   140   640
+20140723    Peet Brits                         c     0   200   640
+20140727    Peet Brits                         c     0   200   640
+20140727    Alan Thompson                      c    20    20   660
+20140727    John Leuner                        c    20    60   680
+20140730    Antoine Dymond                     c    20   160   700
+20140819    Margot Smythe                      c    20    20   720
+20140903    Antoine Dymond                     c    20   180   740
+20140903    Christiaan Maasdorp                c    20    60   760
+20140928    Peet Brits                         c     0   200   760
+20141001    Peet Brits                         c     0   200   760
+20141011    Arnold Wentzel                     c    20    20   780
+20141012    Peet Brits                         c     0   200   780
+20141018    Rory Shea                          t    40    80   820
+20141018    Christiaan Maasdorp                t    40   100   860
+20141019    Alan Thompson                      c    20    40   880
+20141019    Peet Brits                         c     0   200   880
+20141025    Peet Brits                         c     0   200   880
+20141026    Peet Brits                         c     0   200   880
+20141026    Peet Brits                         c     0   200   880
+20141103    Kim He-Jin                         c    20    20   900
+20141103    Kim He-Jin                         c    20    40   920
+20141103    Kim He-Jin                         c    20    60   940
+20141103    Kim He-Jin                         c    20    80   960
+20141103    Kim He-Jin                         c    20   100   980
+20141111    Andre Connell                      c    20    20  1000
+20141111    Kim He-Jin                         c     0   100  1000
+20141130    Peet Brits                         c     0   200  1000
+20141202    Tinus Cloete                       c     0     0  1000
+20141207    Peet Brits                         c     0   200  1000
+20141210    Brett Wilson                       c     0    20  1000
+20141214    Margot Smythe                      c     0    20  1000
+20141214    Margot Smythe                      c     0    20  1000
+20141221    Bob Gale                           c     0     0  1000
+20141221    Alan Thompson                      c     0    40  1000
+20141228    John Leuner                        c     0    60  1000
+20141230    Peet Brits                         c     0   200  1000
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

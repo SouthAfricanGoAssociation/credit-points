@@ -1,0 +1,42 @@
+---------------------------------------------
+WAGC points for Schiefer                     
+---------------------------------------------
+2014 opening balance:                      17
+Annual depreciation:                       -3
+Representative's depreciation:              0
+Membership points:                          0
+SA Championship points:                     0
+Internet Championship points:               0
+Participation points:                       0
+---------------------------------------------
+2014 closing balance:                      14
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

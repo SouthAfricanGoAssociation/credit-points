@@ -1,0 +1,49 @@
+---------------------------------------------
+WAGC points for Victor Chow                  
+---------------------------------------------
+2014 opening balance:                   10720
+Annual depreciation:                    -2144
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                  1900
+Internet Championship points:               0
+Participation points:                     280
+---------------------------------------------
+2014 closing balance:                   10856
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140926    Chris Welsh                        t    40    40    40
+20140927    Andrew Davies                      t    40    40    80
+20140927    Bob Gale                           t    40    40   120
+20140927    John Leuner                        t    40    40   160
+20140928    Andre Connell                      t    40    40   200
+20140928    Samuel Scott                       t    40    40   240
+20140928    Welile Gogotshe                    t    40    40   280
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

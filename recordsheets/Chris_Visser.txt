@@ -1,0 +1,43 @@
+---------------------------------------------
+WAGC points for Chris Visser                 
+---------------------------------------------
+2014 opening balance:                    2339
+Annual depreciation:                     -468
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                     0
+Internet Championship points:               0
+Participation points:                      20
+---------------------------------------------
+2014 closing balance:                    1991
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140909    John Leuner                        c    20    20    20
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

@@ -1,0 +1,57 @@
+---------------------------------------------
+WAGC points for Christiaan Maasdorp          
+---------------------------------------------
+2014 opening balance:                       0
+Annual depreciation:                        0
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                    50
+Internet Championship points:             393
+Participation points:                     440
+---------------------------------------------
+2014 closing balance:                     983
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                              130
+Tournament 3                                0
+Tournament 4                              263
+---------------------------------------------
+Sum of 2 best results:                    393
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140510    Rory Shea                          t    40    40    40
+20140510    Paul Steyn                         t    40    40    80
+20140524    Peet Brits                         t    40    40   120
+20140524    Rory Shea                          t    40    80   160
+20140524    Elizabeth Meyer                    t    40    40   200
+20140617    Rory Shea                          c    20   100   220
+20140723    Peet Brits                         c    20    60   240
+20140805    Rory Shea                          c    20   120   260
+20140903    Peet Brits                         c    20    80   280
+20140903    Elizabeth Meyer                    c    20    60   300
+20141007    Rory Shea                          c    20   140   320
+20141018    Peet Brits                         t    40   120   360
+20141018    Elizabeth Meyer                    t    40   100   400
+20141021    Kim He-Jin                         c    20    20   420
+20141125    Kim He-Jin                         c    20    40   440
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

@@ -1,0 +1,86 @@
+---------------------------------------------
+WAGC points for Andrew Davies                
+---------------------------------------------
+2014 opening balance:                    8254
+Annual depreciation:                    -1651
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                   600
+Internet Championship points:            1000
+Participation points:                    1000
+---------------------------------------------
+2014 closing balance:                    9303
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                              500
+Tournament 2                              500
+Tournament 3                              500
+Tournament 4                              500
+---------------------------------------------
+Sum of 2 best results:                   1000
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140114    Chris Welsh                        c    20    20    20
+20140126    Dave Gale                          t    40    40    60
+20140126    John Leuner                        t    40    40   100
+20140126    Chris Welsh                        t    40    60   140
+20140128    Samuel Scott                       c    20    20   160
+20140218    Rory Shea                          c    20    20   180
+20140225    Marco Dellermann                   c    20    20   200
+20140311    Michael Yang                       c    20    20   220
+20140325    Paul Steyn                         c    20    20   240
+20140415    Gordon Wells                       c    20    20   260
+20140422    Lloyd Rubidge                      c    20    20   280
+20140510    Samuel Scott                       t    40    60   320
+20140510    Rory Shea                          t    40    60   360
+20140510    Lloyd Rubidge                      t    40    60   400
+20140520    Samuel Scott                       c    20    80   420
+20140524    Francois van Niekerk               t    40    40   460
+20140524    John Leuner                        t    40    80   500
+20140524    Chris Welsh                        t    40   100   540
+20140617    Gordon Wells                       c    20    40   560
+20140622    James Nicolson                     t    40    40   600
+20140622    Bob Gale                           t    40    40   640
+20140622    Paul Edwards                       t    40    40   680
+20140728    Samuel Scott                       c    20   100   700
+20140729    Chris Welsh                        c    20   120   720
+20140819    Samuel Scott                       c    20   120   740
+20140826    Lloyd Rubidge                      c    20    80   760
+20140903    Hendrik de Ridder                  t    40    40   800
+20140903    John Leuner                        t    40   120   840
+20140916    Chris Welsh                        c    20   140   860
+20140923    Lloyd Rubidge                      c    20   100   880
+20140926    Welile Gogotshe                    t    40    40   920
+20140927    Victor Chow                        t    40    40   960
+20140927    Andre Connell                      t    40    40  1000
+20140927    Samuel Scott                       t     0   120  1000
+20140928    Bob Gale                           t     0    40  1000
+20140928    John Leuner                        t     0   120  1000
+20140928    Chris Welsh                        t     0   140  1000
+20140930    Juan Francisco de la Banda         t     0     0  1000
+20141007    Paul Steyn                         c     0    20  1000
+20141018    Chris Welsh                        t     0   140  1000
+20141028    Chris Welsh                        c     0   140  1000
+20141104    Samuel Scott                       c     0   120  1000
+20141111    Jochen Bethke                      c     0     0  1000
+20141202    Samuel Scott                       c     0   120  1000
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

@@ -1,0 +1,72 @@
+---------------------------------------------
+WAGC points for Rory Shea                    
+---------------------------------------------
+2014 opening balance:                    3632
+Annual depreciation:                     -726
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                   100
+Internet Championship points:             393
+Participation points:                     860
+---------------------------------------------
+2014 closing balance:                    4359
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                              130
+Tournament 2                               80
+Tournament 3                                0
+Tournament 4                              263
+---------------------------------------------
+Sum of 2 best results:                    393
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140114    Lloyd Rubidge                      c    20    20    20
+20140126    Elizabeth Meyer                    t    40    40    60
+20140126    Hendrik de Ridder                  t    40    40   100
+20140126    Peet Brits                         t    40    40   140
+20140211    David de Klerk                     c    20    20   160
+20140218    Andrew Davies                      c    20    20   180
+20140304    Chris Welsh                        c    20    20   200
+20140311    Paul Steyn                         c    20    20   220
+20140401    Chris Welsh                        c    20    40   240
+20140408    Lloyd Rubidge                      c    20    40   260
+20140510    Christiaan Maasdorp                t    40    40   300
+20140510    Andrew Davies                      t    40    60   340
+20140524    Christiaan Maasdorp                t    40    80   380
+20140524    Peet Brits                         t    40    80   420
+20140603    Trevor Hill                        c    20    20   440
+20140610    Gordon Wells                       c    20    20   460
+20140617    Christiaan Maasdorp                c    20   100   480
+20140621    Lloyd Rubidge                      t    40    80   520
+20140621    Marc Loon                          t    40    40   560
+20140621    Peet Brits                         t    40   120   600
+20140729    Paul Steyn                         c    20    40   620
+20140805    Christiaan Maasdorp                c    20   120   640
+20140812    Chris Welsh                        c    20    60   660
+20140916    Gordon Wells                       c    20    40   680
+20140916    Gordon Wells                       c    20    60   700
+20140923    Samuel Scott                       c    20    20   720
+20141007    Christiaan Maasdorp                c    20   140   740
+20141018    Max Rabkin                         t    40    40   780
+20141018    Elizabeth Meyer                    t    40    80   820
+20141018    Peet Brits                         t    40   160   860
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

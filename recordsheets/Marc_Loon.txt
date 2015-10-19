@@ -1,0 +1,77 @@
+---------------------------------------------
+WAGC points for Marc Loon                    
+---------------------------------------------
+2014 opening balance:                    1496
+Annual depreciation:                     -299
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                   100
+Internet Championship points:               0
+Participation points:                     820
+---------------------------------------------
+2014 closing balance:                    2217
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140211    Jacobus van der Merwe              c    20    20    20
+20140316    Nevar Angelo                       c    20    20    40
+20140316    Arnold Wentzel                     c    20    20    60
+20140330    Arnold Wentzel                     c    20    40    80
+20140330    Alan Thompson                      c    20    20   100
+20140330    Alan Thompson                      c    20    40   120
+20140421    Nevar Angelo                       c    20    40   140
+20140511    Welile Gogotshe                    t    40    40   180
+20140511    Andre Connell                      t    40    40   220
+20140511    Ricky Pilane                       t    40    40   260
+20140511    Alan Thompson                      c    20    60   280
+20140518    Alan Thompson                      c    20    80   300
+20140518    Arnold Wentzel                     c    20    60   320
+20140608    Alan Thompson                      c    20   100   340
+20140608    Peet Brits                         c    20    20   360
+20140621    James Nicolson                     t    40    40   400
+20140621    Rory Shea                          t    40    40   440
+20140621    Ben Bredenkamp                     t    40    40   480
+20140720    John Leuner                        c    20    20   500
+20140902    Margot Smythe                      c    20    20   520
+20140914    Alan Thompson                      c    20   120   540
+20140914    Alan Thompson                      c    20   140   560
+20140914    Peet Brits                         c    20    40   580
+20140914    Peet Brits                         c    20    60   600
+20140914    Peet Brits                         c    20    80   620
+20141005    Andre Connell                      c    20    60   640
+20141019    Alan Thompson                      c    20   160   660
+20141019    Peet Brits                         c    20   100   680
+20141019    Peet Brits                         c    20   120   700
+20141102    Alan Thompson                      c    20   180   720
+20141102    Peet Brits                         c    20   140   740
+20141102    Arnold Wentzel                     c    20    80   760
+20141116    Bob Gale                           c    20    20   780
+20141123    John Leuner                        c    20    40   800
+20141221    John Leuner                        c    20    60   820
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

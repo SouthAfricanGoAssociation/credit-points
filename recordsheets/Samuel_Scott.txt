@@ -1,0 +1,76 @@
+---------------------------------------------
+WAGC points for Samuel Scott                 
+---------------------------------------------
+2014 opening balance:                    8262
+Annual depreciation:                    -1652
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                  1100
+Internet Championship points:             730
+Participation points:                     980
+---------------------------------------------
+2014 closing balance:                    9520
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                              350
+Tournament 2                              380
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                    730
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140107    Chris Welsh                        c    20    20    20
+20140121    Michael Yang                       c    20    20    40
+20140126    Chris Welsh                        t    40    60    80
+20140126    Paul Steyn                         t    40    40   120
+20140128    Andrew Davies                      c    20    20   140
+20140204    Chris Welsh                        c    20    80   160
+20140211    Paul Steyn                         c    20    60   180
+20140218    Marco Dellermann                   c    20    20   200
+20140401    Lloyd Rubidge                      c    20    20   220
+20140415    Clint Smythe                       c    20    20   240
+20140510    Andrew Davies                      t    40    60   280
+20140510    Lloyd Rubidge                      t    40    60   320
+20140510    Chris Welsh                        t    40   120   360
+20140520    Andrew Davies                      c    20    80   380
+20140524    Paul Steyn                         t    40   100   420
+20140524    Francois van Niekerk               t    40    40   460
+20140524    John Leuner                        t    40    40   500
+20140610    Lloyd Rubidge                      c    20    80   520
+20140715    Chris Welsh                        c    20   140   540
+20140728    Andrew Davies                      c    20   100   560
+20140729    Lloyd Rubidge                      c    20   100   580
+20140812    Paul Steyn                         c    20   120   600
+20140819    Andrew Davies                      c    20   120   620
+20140909    Chris Welsh                        c    20   160   640
+20140923    Rory Shea                          c    20    20   660
+20140926    Bob Gale                           t    40    40   700
+20140927    John Leuner                        t    40    80   740
+20140927    Chris Welsh                        t    40   200   780
+20140927    Andrew Davies                      t    40   160   820
+20140928    Welile Gogotshe                    t    40    40   860
+20140928    Victor Chow                        t    40    40   900
+20140928    Andre Connell                      t    40    40   940
+20141104    Andrew Davies                      c    20   180   960
+20141202    Andrew Davies                      c    20   200   980
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

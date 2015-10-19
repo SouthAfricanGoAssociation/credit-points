@@ -1,0 +1,44 @@
+---------------------------------------------
+WAGC points for Allen Simpson                
+---------------------------------------------
+2014 opening balance:                       0
+Annual depreciation:                        0
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                    50
+Internet Championship points:               0
+Participation points:                      80
+---------------------------------------------
+2014 closing balance:                     230
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140511    Thami Mazibuko                     t    40    40    40
+20140511    Blue Maybury                       t    40    40    80
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

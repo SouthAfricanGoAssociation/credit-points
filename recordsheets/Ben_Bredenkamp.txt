@@ -1,0 +1,54 @@
+---------------------------------------------
+WAGC points for Ben Bredenkamp               
+---------------------------------------------
+2014 opening balance:                    2094
+Annual depreciation:                     -419
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                   150
+Internet Championship points:               0
+Participation points:                     420
+---------------------------------------------
+2014 closing balance:                    2345
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140114    Andre Connell                      c    20    20    20
+20140511    Andre Connell                      t    40    60    60
+20140511    Zane Deane                         t    40    40   100
+20140511    John Leuner                        t    40    40   140
+20140604    John Leuner                        c    20    60   160
+20140621    Paul Steyn                         t    40    40   200
+20140621    Chris Welsh                        t    40    40   240
+20140621    Marc Loon                          t    40    40   280
+20140622    John Leuner                        t    40   100   320
+20140622    Paul Edwards                       t    40    40   360
+20140622    Lloyd Rubidge                      t    40    40   400
+20140819    Andre Connell                      c    20    80   420
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

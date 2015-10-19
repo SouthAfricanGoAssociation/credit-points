@@ -1,0 +1,67 @@
+---------------------------------------------
+WAGC points for Bob Gale                     
+---------------------------------------------
+2014 opening balance:                    4238
+Annual depreciation:                     -848
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                   700
+Internet Championship points:               0
+Participation points:                     700
+---------------------------------------------
+2014 closing balance:                    4890
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140622    Lloyd Rubidge                      t    40    40    40
+20140622    Andrew Davies                      t    40    40    80
+20140622    John Leuner                        t    40    40   120
+20140708    Andre Connell                      c    20    20   140
+20140722    Andre Connell                      c    20    40   160
+20140819    Jon Tullett                        c    20    20   180
+20140819    John Leuner                        c    20    60   200
+20140826    Andre Connell                      c    20    60   220
+20140902    Harvey Zhang                       c    20    20   240
+20140909    John Leuner                        c    20    80   260
+20140926    Samuel Scott                       t    40    40   300
+20140927    Andre Connell                      t    40   100   340
+20140927    Victor Chow                        t    40    40   380
+20140927    Welile Gogotshe                    t    40    40   420
+20140928    Andrew Davies                      t    40    80   460
+20140928    Chris Welsh                        t    40    40   500
+20140928    John Leuner                        t    40   120   540
+20141007    John Leuner                        c    20   140   560
+20141028    John Leuner                        c    20   160   580
+20141116    Marc Loon                          c    20    20   600
+20141202    John Leuner                        c    20   180   620
+20141214    Peet Brits                         c    20    20   640
+20141214    Peet Brits                         c    20    40   660
+20141221    John Leuner                        c    20   200   680
+20141221    Elizabeth Meyer                    c    20    20   700
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

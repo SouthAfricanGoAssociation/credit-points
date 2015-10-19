@@ -1,0 +1,49 @@
+---------------------------------------------
+WAGC points for Hendrik de Ridder            
+---------------------------------------------
+2014 opening balance:                       0
+Annual depreciation:                        0
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                     0
+Internet Championship points:             273
+Participation points:                     240
+---------------------------------------------
+2014 closing balance:                     613
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                               80
+Tournament 2                                0
+Tournament 3                              193
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                    273
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140122    Antoine Dymond                     c    20    20    20
+20140122    Peet Brits                         c    20    20    40
+20140126    Peet Brits                         t    40    60    80
+20140126    Rory Shea                          t    40    40   120
+20140126    Elizabeth Meyer                    t    40    40   160
+20140903    Andrew Davies                      t    40    40   200
+20140903    Chris Welsh                        t    40    40   240
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

@@ -1,0 +1,123 @@
+---------------------------------------------
+WAGC points for John Leuner                  
+---------------------------------------------
+2014 opening balance:                    8293
+Annual depreciation:                    -1659
+Representative's depreciation:          -2830
+Membership points:                        100
+SA Championship points:                   900
+Internet Championship points:             700
+Participation points:                    1000
+---------------------------------------------
+2014 closing balance:                    6504
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                              350
+Tournament 2                              263
+Tournament 3                              350
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                    700
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140107    Dave Gale                          c    20    20    20
+20140107    Welile Gogotshe                    c    20    20    40
+20140121    Andre Connell                      c    20    20    60
+20140126    Paul Steyn                         t    40    40   100
+20140126    Andrew Davies                      t    40    40   140
+20140126    Andre Connell                      t    40    60   180
+20140128    Tristen Taylor                     c    20    20   200
+20140205    Peet Brits                         c    20    20   220
+20140205    Antoine Dymond                     c    20    20   240
+20140212    Peet Brits                         c    20    40   260
+20140319    Peet Brits                         c    20    60   280
+20140325    Andre Connell                      c    20    80   300
+20140409    Peet Brits                         c    20    80   320
+20140409    Antoine Dymond                     c    20    40   340
+20140415    Andre Connell                      c    20   100   360
+20140416    Elizabeth Meyer                    c    20    20   380
+20140416    Peet Brits                         c    20   100   400
+20140506    Andre Connell                      c    20   120   420
+20140507    Peet Brits                         c    20   120   440
+20140511    Zane Deane                         t    40    40   480
+20140511    Welile Gogotshe                    t    40    60   520
+20140511    Ben Bredenkamp                     t    40    40   560
+20140521    Peet Brits                         c    20   140   580
+20140521    Antoine Dymond                     c    20    60   600
+20140524    Chris Welsh                        t    40    40   640
+20140524    Andrew Davies                      t    40    80   680
+20140524    Samuel Scott                       t    40    40   720
+20140528    Antoine Dymond                     c    20    80   740
+20140528    Elizabeth Meyer                    c    20    40   760
+20140604    Ben Bredenkamp                     c    20    60   780
+20140622    Ben Bredenkamp                     t    40   100   820
+20140622    Chris Welsh                        t    40    80   860
+20140622    Bob Gale                           t    40    40   900
+20140701    Andre Connell                      c    20   140   920
+20140716    Peet Brits                         c    20   160   940
+20140716    Shannon Mayne                      c    20    20   960
+20140720    Marc Loon                          c    20    20   980
+20140720    Peet Brits                         c    20   180  1000
+20140727    Peet Brits                         c     0   180  1000
+20140727    Alan Thompson                      c     0     0  1000
+20140727    Alan Thompson                      c     0     0  1000
+20140727    Elizabeth Meyer                    c     0    40  1000
+20140819    Harvey Zhang                       c     0     0  1000
+20140819    Bob Gale                           c     0    40  1000
+20140826    Margot Smythe                      c     0     0  1000
+20140902    Harvey Zhang                       c     0     0  1000
+20140902    Harvey Zhang                       c     0     0  1000
+20140903    Peet Brits                         t     0   180  1000
+20140903    Chris Welsh                        t     0    80  1000
+20140903    Andrew Davies                      t     0    80  1000
+20140909    Bob Gale                           c     0    40  1000
+20140909    Chris Visser                       c     0     0  1000
+20140923    Harvey Zhang                       c     0     0  1000
+20140926    Andre Connell                      t     0   140  1000
+20140927    Samuel Scott                       t     0    40  1000
+20140927    Welile Gogotshe                    t     0    60  1000
+20140927    Victor Chow                        t     0     0  1000
+20140928    Chris Welsh                        t     0    80  1000
+20140928    Andrew Davies                      t     0    80  1000
+20140928    Bob Gale                           t     0    40  1000
+20140930    Jesus Roldan                       t     0     0  1000
+20141007    Harvey Zhang                       c     0     0  1000
+20141007    Harvey Zhang                       c     0     0  1000
+20141007    Bob Gale                           c     0    40  1000
+20141011    Shannon Mayne                      c     0    20  1000
+20141019    Peet Brits                         c     0   180  1000
+20141028    Bob Gale                           c     0    40  1000
+20141029    Peet Brits                         c     0   180  1000
+20141029    Peet Brits                         c     0   180  1000
+20141029    Shannon Mayne                      c     0    20  1000
+20141102    Alan Thompson                      c     0     0  1000
+20141118    Margot Smythe                      c     0     0  1000
+20141123    Alan Thompson                      c     0     0  1000
+20141123    Marc Loon                          c     0    20  1000
+20141125    Peet Brits                         c     0   180  1000
+20141202    Peet Brits                         c     0   180  1000
+20141202    Bob Gale                           c     0    40  1000
+20141221    Margot Smythe                      c     0     0  1000
+20141221    Bob Gale                           c     0    40  1000
+20141221    Marc Loon                          c     0    20  1000
+20141228    Elizabeth Meyer                    c     0    40  1000
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

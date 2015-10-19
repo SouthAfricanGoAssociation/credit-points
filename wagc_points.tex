@@ -1,0 +1,150 @@
+\documentclass{article}
+
+\usepackage[german]{babel}
+
+\title{How to use \texttt{wagc\_points.py}}
+\author{Reinhardt Messerschmidt}
+\date{2006-10-22}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\subsection{History}
+The calculation of SAGA ranks and WAGC points used to be done with a Visual Basic program maintained by Paul Edwards. In September 2005,
+SAGA officially recognised the ranks calculated by the script run on the SAGC website after its algorithm was adjusted to be the
+same as the Visual Basic program's algorithm. However, the script did not calculate WAGC points, and so the  Python script 
+\texttt{wagc\_points.py} was written to fill this gap.
+
+\subsection{Objective}
+See the \emph{WAGC points system} page on the SAGC wiki for what \texttt{wagc\_points.py} tries to do.
+
+\section{Input}
+\texttt{wagc\_points.py} requires two files as input: a parameter file and a data file.
+
+\subsection{Parameter file}
+The parameter file should have the following format:
+
+\noindent\\
+\emph{\flq Annual depreciation factor\frq}\\
+$*$\\ 
+\emph{\flq Representative's depreciation cap\frq}\\
+$*$\\
+\emph{\flq Membership points\frq}\\
+$*$\\
+\emph{\flq SA Championship points for 1st place\frq}\\
+\emph{\flq SA Championship points for 2nd place\frq}\\
+\emph{\flq \ldots\frq}\\
+\emph{\flq SA Championship points for the rest\frq}\\
+$*$\\
+\emph{\flq Number of Internet Championship tournaments taken into account\frq}\\
+\emph{\flq Internet Championship points for 1st place\frq}\\
+\emph{\flq Internet Championship points for 2nd place\frq}\\
+\emph{\flq \ldots\frq}\\
+\emph{\flq Internet Championship points for the rest\frq}\\
+$*$\\
+\emph{\flq Participation points cap\frq}\\
+\emph{\flq Participation points cap per opponent\frq}\\
+\emph{\flq Participation points for a tournament game\frq}\\
+\emph{\flq Participation points for a club game\frq}\\
+\emph{\flq Participation points for an internet game\frq}\\
+
+Note that the lengths of the lists of SA Championship and Internet Championship points are not fixed --- the lists can be made longer or 
+shorter as needed.
+
+\subsection{Data file}
+
+The data file should have the following format:
+
+\noindent\\
+\emph{\flq Calender year for which WAGC points are being calculated\frq}\\
+\emph{\flq Opening balances file\frq}\\
+\emph{\flq Representatives file\frq}\\
+\emph{\flq Membership file\frq}\\
+\emph{\flq SA Championship file\frq}\\
+\emph{\flq Internet Championship file\frq}\\
+\emph{\flq Games file\frq}
+
+\subsubsection{Opening balances file}
+\texttt{wagc\_points.py}'s output from the previous calendar year.
+
+\subsubsection{Representatives file}
+The representatives file should have a line for each representative in the following format:
+
+\noindent\\
+\emph{\flq Name\frq}\texttt{,}
+\emph{\flq Sponsorship level\frq}\texttt{,}
+\emph{\flq Number of times\frq}\texttt{,}
+\emph{\flq Position\frq}\texttt{,}
+\emph{\flq Number of participants\frq}
+
+Sponsorship level is a number between 0 and 100, based on the level of sponsorship of the tournament.  Also, the code assumes no
+player appears more than once in the representatives file.
+
+\subsubsection{Membership file}
+The members for the current calendar year, one name per line.
+
+\subsubsection{SA Championship file}
+The SA Championship file should have the following format:
+
+\noindent\\
+\emph{\flq Name of 1st placed qualifier\frq}[\texttt{,}\emph{\flq Name of 1st placed qualifier\frq}[\texttt{,}\ldots]]\\
+\emph{\flq Name of 2nd placed qualifier\frq}[\texttt{,}\emph{\flq Name of 2nd placed qualifier\frq}[\texttt{,}\ldots]]\\
+\emph{\flq \ldots\frq}\\
+$*$\\
+\emph{\flq Names of participants in SA Open and qualifying tournaments, one name per line\frq}\\
+
+Square brackets indicate optional arguments that are only used if there is a tie for a position. It is not necessary to 
+exclude the names of qualifiers from the names below the $*$, or to have only one instance of a name below the $*$ --- 
+\texttt{wagc\_points.py} handles any repetition.
+
+Note that this list should only contain SAGA members.  Otherwise, points are allocated (but not awarded) to players who are not SAGA members,
+disadvantaging SAGA members placed below them.
+
+\subsubsection{Internet Championship file}
+The Internet Championship file should have a group of lines for each internet tournament, in the following format:
+
+\noindent\\
+\emph{\flq Name of 1st placed player\frq}[\texttt{,}\emph{\flq Name of 1st placed player\frq}[\texttt{,}\ldots]]\\
+\emph{\flq Name of 2nd placed player\frq}[\texttt{,}\emph{\flq Name of 2nd placed player\frq}[\texttt{,}\ldots]]\\
+\emph{\flq \ldots\frq}\\
+$*$\\
+
+Square brackets indicate optional arguments that are only used if there is a tie for a position.
+
+Note that this list should only contain SAGA members.  Otherwise, points are allocated (but not awarded) to players who are not SAGA members,
+disadvantaging SAGA members placed below them.
+
+\subsubsection{Games file}
+The SAGC ranking system script generates a file with information on all the logged games. Executing the command
+
+\noindent\\
+\texttt{python make\_input.py}\emph{\ \flq Calender year for which WAGC points are being calculated\frq\ \flq SAGC games file\frq}\\
+
+creates a file called \texttt{games.txt}, which should be used as the games file. \texttt{make\_input.py} does the following to the 
+SAGC games file:
+\begin{itemize}
+\item[-] Removes all free games and games not in the calendar year for which WAGC points are being calculated.
+\item[-] Changes the \emph{date} format from \emph{dd/mm/yyyy} to \emph{yyyymmdd}.
+\item[-] Changes the \emph{game type} format from \emph{0.5$\vert$1$\vert$1.5} to \emph{i$\vert$c$\vert$t}.
+\item[-] Changes the \emph{result} format from \emph{W$\vert$B} to \emph{w$\vert$b}.
+\item[-] Removes the \emph{effective handicap} and \emph{comments} columns.
+\item[-] Changes the order of the remaining columns.
+\item[-] Sorts the games by date.
+\end{itemize}
+
+\section{Execution}
+
+The following command should be used:
+
+\noindent\\
+\texttt{python wagc\_points.py}\emph{\ \flq parameter file\frq\ \flq data file\frq}
+
+\section{Output}
+
+\texttt{wagc\_points.py} creates a file called \texttt{wagc\_points.txt} giving a summary of the WAGC points standings. It also 
+creates a directory called \texttt{recordsheets} containing a detailed report for each player.
+
+\end{document}

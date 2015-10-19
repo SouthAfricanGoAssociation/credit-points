@@ -1,0 +1,139 @@
+---------------------------------------------
+WAGC points for Peet Brits                   
+---------------------------------------------
+2014 opening balance:                       0
+Annual depreciation:                        0
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                   100
+Internet Championship points:             573
+Participation points:                    1000
+---------------------------------------------
+2014 closing balance:                    1773
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                              105
+Tournament 2                              160
+Tournament 3                              193
+Tournament 4                              380
+---------------------------------------------
+Sum of 2 best results:                    573
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140122    Gordon Wells                       c    20    20    20
+20140122    Hendrik de Ridder                  c    20    20    40
+20140126    Hendrik de Ridder                  t    40    60    80
+20140126    Elizabeth Meyer                    t    40    40   120
+20140126    Rory Shea                          t    40    40   160
+20140205    John Leuner                        c    20    20   180
+20140212    John Leuner                        c    20    40   200
+20140212    Antoine Dymond                     c    20    20   220
+20140319    John Leuner                        c    20    60   240
+20140319    Antoine Dymond                     c    20    40   260
+20140326    Antoine Dymond                     c    20    60   280
+20140326    Elizabeth Meyer                    c    20    60   300
+20140409    John Leuner                        c    20    80   320
+20140413    Elizabeth Meyer                    c    20    80   340
+20140416    Antoine Dymond                     c    20    80   360
+20140416    John Leuner                        c    20   100   380
+20140418    Elizabeth Meyer                    c    20   100   400
+20140427    Elizabeth Meyer                    c    20   120   420
+20140427    Elizabeth Meyer                    c    20   140   440
+20140507    Antoine Dymond                     c    20   100   460
+20140507    John Leuner                        c    20   120   480
+20140507    Elizabeth Meyer                    c    20   160   500
+20140511    Ricardo Kaizer                     t    40    40   540
+20140511    Ricky Pilane                       t    40    40   580
+20140511    Brian Huma                         t    40    40   620
+20140514    Antoine Dymond                     c    20   120   640
+20140521    John Leuner                        c    20   140   660
+20140521    Brett Wilson                       c    20    20   680
+20140524    Christiaan Maasdorp                t    40    40   720
+20140524    Elizabeth Meyer                    t    40   200   760
+20140524    Rory Shea                          t    40    80   800
+20140528    Antoine Dymond                     c    20   140   820
+20140608    Alan Thompson                      c    20    20   840
+20140608    Jon Tullett                        c    20    20   860
+20140608    Marc Loon                          c    20    20   880
+20140611    Shannon Mayne                      c    20    20   900
+20140621    Chris Welsh                        t    40    40   940
+20140621    Paul Steyn                         t    40    40   980
+20140621    Rory Shea                          t    20   100  1000
+20140709    Antoine Dymond                     c     0   140  1000
+20140709    Antoine Dymond                     c     0   140  1000
+20140716    John Leuner                        c     0   140  1000
+20140716    Shannon Mayne                      c     0    20  1000
+20140720    Alan Thompson                      c     0    20  1000
+20140720    Alan Thompson                      c     0    20  1000
+20140720    John Leuner                        c     0   140  1000
+20140723    Christiaan Maasdorp                c     0    40  1000
+20140723    Elizabeth Meyer                    c     0   200  1000
+20140727    Elizabeth Meyer                    c     0   200  1000
+20140727    John Leuner                        c     0   140  1000
+20140727    Alan Thompson                      c     0    20  1000
+20140730    Shannon Mayne                      c     0    20  1000
+20140730    Antoine Dymond                     c     0   140  1000
+20140816    Arnold Wentzel                     c     0     0  1000
+20140903    John Leuner                        t     0   140  1000
+20140903    Gordon Wells                       t     0    20  1000
+20140903    Christiaan Maasdorp                c     0    40  1000
+20140903    Antoine Dymond                     c     0   140  1000
+20140914    Alan Thompson                      c     0    20  1000
+20140914    Arnold Wentzel                     c     0     0  1000
+20140914    Marc Loon                          c     0    20  1000
+20140914    Marc Loon                          c     0    20  1000
+20140914    Marc Loon                          c     0    20  1000
+20140917    Tinus Cloete                       c     0     0  1000
+20140928    Elizabeth Meyer                    c     0   200  1000
+20140928    Welile Gogotshe                    c     0     0  1000
+20141001    Elizabeth Meyer                    c     0   200  1000
+20141011    Harvey Zhang                       c     0     0  1000
+20141012    Elizabeth Meyer                    c     0   200  1000
+20141018    Christiaan Maasdorp                t     0    40  1000
+20141018    Max Rabkin                         t     0     0  1000
+20141018    Rory Shea                          t     0   100  1000
+20141019    Alan Thompson                      c     0    20  1000
+20141019    Alan Thompson                      c     0    20  1000
+20141019    John Leuner                        c     0   140  1000
+20141019    Marc Loon                          c     0    20  1000
+20141019    Marc Loon                          c     0    20  1000
+20141019    Elizabeth Meyer                    c     0   200  1000
+20141025    Elizabeth Meyer                    c     0   200  1000
+20141026    Elizabeth Meyer                    c     0   200  1000
+20141026    Elizabeth Meyer                    c     0   200  1000
+20141029    John Leuner                        c     0   140  1000
+20141029    John Leuner                        c     0   140  1000
+20141102    Arnold Wentzel                     c     0     0  1000
+20141102    Marc Loon                          c     0    20  1000
+20141102    Alan Thompson                      c     0    20  1000
+20141123    Alan Thompson                      c     0    20  1000
+20141123    Alan Thompson                      c     0    20  1000
+20141125    John Leuner                        c     0   140  1000
+20141130    Elizabeth Meyer                    c     0   200  1000
+20141202    John Leuner                        c     0   140  1000
+20141202    Antoine Dymond                     c     0   140  1000
+20141207    Elizabeth Meyer                    c     0   200  1000
+20141214    Alan Thompson                      c     0    20  1000
+20141214    Bob Gale                           c     0     0  1000
+20141214    Bob Gale                           c     0     0  1000
+20141230    Elizabeth Meyer                    c     0   200  1000
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

@@ -1,0 +1,49 @@
+---------------------------------------------
+WAGC points for Jacobus van der Merwe        
+---------------------------------------------
+2014 opening balance:                       0
+Annual depreciation:                        0
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                     0
+Internet Championship points:               0
+Participation points:                     140
+---------------------------------------------
+2014 closing balance:                     240
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140128    Alan Thompson                      c    20    20    20
+20140128    Alan Thompson                      c    20    40    40
+20140211    Marc Loon                          c    20    20    60
+20140211    Arnold Wentzel                     c    20    20    80
+20140304    Andre Connell                      c    20    20   100
+20140304    Jon Tullett                        c    20    20   120
+20140304    Jon Tullett                        c    20    40   140
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

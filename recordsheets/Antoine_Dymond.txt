@@ -1,0 +1,70 @@
+---------------------------------------------
+WAGC points for Antoine Dymond               
+---------------------------------------------
+2014 opening balance:                     452
+Annual depreciation:                      -90
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                     0
+Internet Championship points:               0
+Participation points:                     520
+---------------------------------------------
+2014 closing balance:                     982
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140122    Hendrik de Ridder                  c    20    20    20
+20140205    John Leuner                        c    20    20    40
+20140212    Peet Brits                         c    20    20    60
+20140212    Elizabeth Meyer                    c    20    20    80
+20140319    Elizabeth Meyer                    c    20    40   100
+20140319    Peet Brits                         c    20    40   120
+20140326    Peet Brits                         c    20    60   140
+20140409    John Leuner                        c    20    40   160
+20140416    Peet Brits                         c    20    80   180
+20140416    Elizabeth Meyer                    c    20    60   200
+20140423    Elizabeth Meyer                    c    20    80   220
+20140507    Peet Brits                         c    20   100   240
+20140514    Peet Brits                         c    20   120   260
+20140514    Elizabeth Meyer                    c    20   100   280
+20140521    Elizabeth Meyer                    c    20   120   300
+20140521    John Leuner                        c    20    60   320
+20140528    Peet Brits                         c    20   140   340
+20140528    John Leuner                        c    20    80   360
+20140611    Shannon Mayne                      c    20    20   380
+20140709    Peet Brits                         c    20   160   400
+20140709    Peet Brits                         c    20   180   420
+20140716    Elizabeth Meyer                    c    20   140   440
+20140723    Shannon Mayne                      c    20    40   460
+20140730    Elizabeth Meyer                    c    20   160   480
+20140730    Peet Brits                         c    20   200   500
+20140903    Elizabeth Meyer                    c    20   180   520
+20140903    Peet Brits                         c     0   200   520
+20141202    Peet Brits                         c     0   200   520
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

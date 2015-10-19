@@ -1,0 +1,52 @@
+---------------------------------------------
+WAGC points for Harvey Zhang                 
+---------------------------------------------
+2014 opening balance:                     360
+Annual depreciation:                      -72
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                     0
+Internet Championship points:               0
+Participation points:                     200
+---------------------------------------------
+2014 closing balance:                     588
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140819    John Leuner                        c    20    20    20
+20140902    John Leuner                        c    20    40    40
+20140902    John Leuner                        c    20    60    60
+20140902    Bob Gale                           c    20    20    80
+20140923    John Leuner                        c    20    80   100
+20141007    Andre Connell                      c    20    20   120
+20141007    John Leuner                        c    20   100   140
+20141007    John Leuner                        c    20   120   160
+20141011    Tristen Taylor                     c    20    20   180
+20141011    Peet Brits                         c    20    20   200
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

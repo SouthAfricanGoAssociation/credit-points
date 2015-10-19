@@ -1,0 +1,46 @@
+---------------------------------------------
+WAGC points for Michael Yang                 
+---------------------------------------------
+2014 opening balance:                       0
+Annual depreciation:                        0
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                     0
+Internet Championship points:               0
+Participation points:                      80
+---------------------------------------------
+2014 closing balance:                     180
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140121    Samuel Scott                       c    20    20    20
+20140218    Chris Welsh                        c    20    20    40
+20140304    Lloyd Rubidge                      c    20    20    60
+20140311    Andrew Davies                      c    20    20    80
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

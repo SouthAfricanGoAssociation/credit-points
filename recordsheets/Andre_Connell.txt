@@ -1,0 +1,88 @@
+---------------------------------------------
+WAGC points for Andre Connell                
+---------------------------------------------
+2014 opening balance:                    8813
+Annual depreciation:                    -1763
+Representative's depreciation:          -2186
+Membership points:                        100
+SA Championship points:                  1600
+Internet Championship points:             193
+Participation points:                    1000
+---------------------------------------------
+2014 closing balance:                    7757
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                              193
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                    193
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140107    Dave Gale                          c    20    20    20
+20140114    Ben Bredenkamp                     c    20    20    40
+20140121    John Leuner                        c    20    20    60
+20140126    Chris Welsh                        t    40    40   100
+20140126    John Leuner                        t    40    60   140
+20140128    Alan Thompson                      c    20    20   160
+20140211    Welile Gogotshe                    c    20    20   180
+20140211    Arnold Wentzel                     c    20    20   200
+20140304    Jacobus van der Merwe              c    20    20   220
+20140304    Dave Gale                          c    20    40   240
+20140325    John Leuner                        c    20    80   260
+20140401    Tristen Taylor                     c    20    20   280
+20140408    Jon Tullett                        c    20    20   300
+20140408    Jon Tullett                        c    20    40   320
+20140415    John Leuner                        c    20   100   340
+20140422    Jon Tullett                        c    20    60   360
+20140506    John Leuner                        c    20   120   380
+20140511    Ben Bredenkamp                     t    40    60   420
+20140511    Marc Loon                          t    40    40   460
+20140511    Welile Gogotshe                    t    40    60   500
+20140701    John Leuner                        c    20   140   520
+20140708    Bob Gale                           c    20    20   540
+20140715    Tristen Taylor                     c    20    40   560
+20140722    Bob Gale                           c    20    40   580
+20140819    Ben Bredenkamp                     c    20    80   600
+20140826    Bob Gale                           c    20    60   620
+20140919    Dolgorsren Batmunkh                t    40    40   660
+20140919    Tae-woong Wei                      t    40    40   700
+20140919    Thomas Heshe                       t    40    40   740
+20140920    Jakob Bing                         t    40    40   780
+20140920    Aliaksandr Chakur                  t    40    40   820
+20140920    Jeremie Hertz                      t    40    40   860
+20140926    John Leuner                        t    40   180   900
+20140927    Bob Gale                           t    40   100   940
+20140927    Andrew Davies                      t    40    40   980
+20140927    Chris Welsh                        t    20    60  1000
+20140928    Victor Chow                        t     0     0  1000
+20140928    Welile Gogotshe                    t     0    60  1000
+20140928    Samuel Scott                       t     0     0  1000
+20140930    Jose-Manuel Vega                   t     0     0  1000
+20140930    Dave Gale                          c     0    40  1000
+20141005    Marc Loon                          c     0    40  1000
+20141007    Harvey Zhang                       c     0     0  1000
+20141111    Elizabeth Meyer                    c     0     0  1000
+20141111    Kim He-Jin                         c     0     0  1000
+20141111    Arnold Wentzel                     c     0    20  1000
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

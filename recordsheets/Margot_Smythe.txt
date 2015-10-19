@@ -1,0 +1,54 @@
+---------------------------------------------
+WAGC points for Margot Smythe                
+---------------------------------------------
+2014 opening balance:                     400
+Annual depreciation:                      -80
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                    50
+Internet Championship points:               0
+Participation points:                     300
+---------------------------------------------
+2014 closing balance:                     770
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140506    Alan Thompson                      c    20    20    20
+20140511    Thando Ngubane                     t    40    40    60
+20140511    Ricardo Kaizer                     t    40    40   100
+20140511    Smangaliso Govender                t    40    40   140
+20140819    Elizabeth Meyer                    c    20    20   160
+20140819    Richard Worthington                c    20    20   180
+20140826    John Leuner                        c    20    20   200
+20140902    Marc Loon                          c    20    20   220
+20141118    John Leuner                        c    20    40   240
+20141214    Elizabeth Meyer                    c    20    40   260
+20141214    Elizabeth Meyer                    c    20    60   280
+20141221    John Leuner                        c    20    60   300
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

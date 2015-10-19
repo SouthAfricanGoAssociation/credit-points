@@ -1,0 +1,51 @@
+---------------------------------------------
+WAGC points for Kim He-Jin                   
+---------------------------------------------
+2014 opening balance:                       0
+Annual depreciation:                        0
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                     0
+Internet Championship points:               0
+Participation points:                     180
+---------------------------------------------
+2014 closing balance:                     280
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20141021    Christiaan Maasdorp                c    20    20    20
+20141103    Elizabeth Meyer                    c    20    20    40
+20141103    Elizabeth Meyer                    c    20    40    60
+20141103    Elizabeth Meyer                    c    20    60    80
+20141103    Elizabeth Meyer                    c    20    80   100
+20141103    Elizabeth Meyer                    c    20   100   120
+20141111    Andre Connell                      c    20    20   140
+20141111    Elizabeth Meyer                    c    20   120   160
+20141125    Christiaan Maasdorp                c    20    40   180
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

@@ -1,0 +1,48 @@
+---------------------------------------------
+WAGC points for Brett Wilson                 
+---------------------------------------------
+2014 opening balance:                     220
+Annual depreciation:                      -44
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                    50
+Internet Championship points:               0
+Participation points:                     180
+---------------------------------------------
+2014 closing balance:                     506
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140511    Smangaliso Govender                t    40    40    40
+20140511    Mosa Diphafe                       t    40    40    80
+20140511    Phakamile Mkhwanazi                t    40    40   120
+20140521    Peet Brits                         c    20    20   140
+20140611    Elizabeth Meyer                    c    20    20   160
+20141210    Elizabeth Meyer                    c    20    40   180
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----

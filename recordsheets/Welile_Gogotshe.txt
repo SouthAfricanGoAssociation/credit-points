@@ -1,0 +1,55 @@
+---------------------------------------------
+WAGC points for Welile Gogotshe              
+---------------------------------------------
+2014 opening balance:                    8579
+Annual depreciation:                    -1716
+Representative's depreciation:              0
+Membership points:                        100
+SA Championship points:                  1300
+Internet Championship points:               0
+Participation points:                     460
+---------------------------------------------
+2014 closing balance:                    8723
+---------------------------------------------
+
+
+
+---------------------------------------------
+Exposition of Internet Championship points   
+---------------------------------------------
+Tournament 1                                0
+Tournament 2                                0
+Tournament 3                                0
+Tournament 4                                0
+---------------------------------------------
+Sum of 2 best results:                      0
+---------------------------------------------
+
+
+
+------------------------------------------------------------------
+Exposition of participation points                                
+------------------------------------------------------------------
+                                            Game  Part   Cum   Cum
+Date        Opponent                        type  pnts   opp   tot
+------------------------------------------------------------------
+20140107    John Leuner                        c    20    20    20
+20140211    Andre Connell                      c    20    20    40
+20140511    Marc Loon                          t    40    40    80
+20140511    John Leuner                        t    40    60   120
+20140511    Andre Connell                      t    40    60   160
+20140926    Andrew Davies                      t    40    40   200
+20140927    Chris Welsh                        t    40    40   240
+20140927    John Leuner                        t    40   100   280
+20140927    Bob Gale                           t    40    40   320
+20140928    Samuel Scott                       t    40    40   360
+20140928    Andre Connell                      t    40   100   400
+20140928    Victor Chow                        t    40    40   440
+20140928    Peet Brits                         c    20    20   460
+------------------------------------------------------------------
+
+
+
+-----
+ END 
+-----
